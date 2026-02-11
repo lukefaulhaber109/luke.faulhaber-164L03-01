@@ -9,6 +9,7 @@ This module provides basic arithmetic operations:
 - Subtraction  
 - Multiplication
 - Division (with zero-division protection)
+- the symbol that appears is the + symbol and the color is green
 """
 
 
@@ -36,3 +37,6 @@ def divide(a, b):
     return a / b
 print(f"20 / 4 = {divide(20, 4)}")
 print(f"10 / 0 = {divide(10, 0)}")
+def power(base, exponent):
+    """reture base raised to the power of exponent"""
+    return base ** exponent
