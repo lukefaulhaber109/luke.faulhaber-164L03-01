@@ -10,6 +10,14 @@ This module provides basic arithmetic operations:
 - Multiplication
 - Division (with zero-division protection)
 - the symbol that appears is the + symbol and the color is green
+
+    Initial commit
+    Update README.md
+    Add calculator module with add and subtract functions
+    Added multiply function
+    Added division function with zero division error handling
+    update module documentation with version and feature list
+    updated docstring with new line
 """
 
 
