@@ -16,3 +16,8 @@ def subtract(a, b):
 if __name__ == "__main__":
     print(f"5 + 3 = {add(5, 3)}")
     print(f"10 - 4 = {subtract(10, 4)}")
+def multiply(a, b):
+    """return the product of two numbers"""
+    return a * b
+if __name__ == "__main__":
+    print(f"6 * 7 = {multiply(6, 7)}")
