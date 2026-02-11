@@ -1,8 +1,16 @@
 """
 Simple Calculator Module
-Author: [Your Name]
-Date: [Today's Date]
+Author: Luke Faulhaber
+Date: 2/11/2026
+Version: 1.0
+
+This module provides basic arithmetic operations:
+- Addition
+- Subtraction  
+- Multiplication
+- Division (with zero-division protection)
 """
+
 
 def add(a, b):
     """Return the sum of two numbers."""
